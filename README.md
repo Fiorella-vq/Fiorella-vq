@@ -10,7 +10,7 @@
    
   </a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=aFiorella&label=Visits&color=brightgreen&style=for-the-badge" alt="views on github" />
+ 
 </p>
 
 ---
