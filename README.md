@@ -2,7 +2,7 @@
   <img src="https://github.com/Fiorella-vq/Fiorella-vq/blob/f23b920428221d056448f8f15e2974c4e692984e/1.jpg?raw=true" width="800" height="300">
 </p>
 
-<h2 align="center">✨ Ciao! Sono Fiorella  😊👋 ✨</h2>
+<h2 align="center">✨ Hello! I´m Fiorella  😊👋 ✨</h2>
 <h3 align="center">Full Stack Software Developer 🚀 | Creator of digital experiences, with a magnifying glass in one hand and a keyboard in the other. 🔎⌨️🌟</h3>
 
 <p align="center">
